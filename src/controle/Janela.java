@@ -76,7 +76,7 @@ public class Janela extends JFrame implements ActionListener {
 		panelTop.add(lblNewLabel);
 		panelTop.add(inNumCilindrosField);
 		
-		JLabel label = new JLabel(" PosiÃ§Ã£o Inicial:");
+		JLabel label = new JLabel(" Posição Inicial:");
 		panelTop.add(label);
 		
 		inPosInicialField = new JTextField();
